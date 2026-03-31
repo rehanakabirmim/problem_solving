@@ -53,6 +53,3 @@ $reversedHead = reverseLinkedList($node1);
 echo "Reversed list: ";
 printList($reversedHead);
 ?>
-
-
-
